@@ -1,1 +1,8 @@
-/*  your css code here. If applicable */
+.book{
+	padding:50px;
+	display :block;
+	text-align : center;
+}
+.book-library{
+	padding :10px solid #f8f8f8;
+}
